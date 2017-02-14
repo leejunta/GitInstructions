@@ -8,9 +8,9 @@ Git Instructions to Add to Repository
 3) Initialize Git repository  
      `git init`  
 4) Connect local directory to repo at Github  
-     `git remote add myorigin https://github.com/username/reponame  
-5) Check the status of local repository
-     `git status`
+     `git remote add myorigin https://github.com/username/reponame`  
+5) Check the status of local repository  
+     `git status`  
 6) Add file to repository  
      `git add filename`  
      * Use '.' instead to add all files  
@@ -18,7 +18,7 @@ Git Instructions to Add to Repository
      `git commit -am "Comment"`  
      * `-a` commits all the files  
      * `-m` adds a comment  
-8) Push the Git repo into Github
-     `git push myorigin master`
+8) Push the Git repo into Github  
+     `git push myorigin master`  
 
 
